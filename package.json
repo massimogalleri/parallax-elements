@@ -1,0 +1,22 @@
+{
+  "name": "parallax-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massimogalleri/parallax-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/massimogalleri/parallax-elements/issues"
+  },
+  "homepage": "https://github.com/massimogalleri/parallax-elements#readme",
+  "dependencies": {
+    "gsap": "^2.0.2"
+  }
+}
