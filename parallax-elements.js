@@ -9,7 +9,7 @@
       let _elementT = item.getBoundingClientRect().top;
       let _elementP = item.dataset.parallax;
       let _elementY = ((window.outerHeight - _elementH) / 2, _elementT - window.pageYOffset);
-      TweenLite.to(item, 1, {
+      TweenMax.to(item, 1, {
         y: _elementY * - _elementP / 5
       })
     })
