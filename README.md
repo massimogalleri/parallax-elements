@@ -4,6 +4,3 @@ TweenMax based parallax. Use data-parallax attribute on each object to specify t
 ## setup
 `npm install`
 `grunt`
-
-### live
-https://mg-parallax-elements.netlify.com/
