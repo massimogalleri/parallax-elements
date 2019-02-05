@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/massimogalleri/parallax-elements/issues"
   },
-  "homepage": "https://github.com/massimogalleri/parallax-elements#readme",
-  "dependencies": {
-    "gsap": "^2.0.2"
-  }
+  "homepage": "https://github.com/massimogalleri/parallax-elements#readme"
 }
